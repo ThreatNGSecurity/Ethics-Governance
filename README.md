@@ -89,6 +89,7 @@ Thanks to all our contributors!
 <table>
   <tbody>
     <tr>
+      <td align="center"><a href="https://github.com/NathanHardy01"><img src="https://avatars.githubusercontent.com/u/49400775?v=4" width="100px;" alt="NathanHardy01"/><br /><sub><b>NathanHardy01</b></sub></a><br></td>
     </tr>
    <tbody>
 <table>
